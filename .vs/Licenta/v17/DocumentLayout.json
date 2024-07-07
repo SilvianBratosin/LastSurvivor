@@ -1,0 +1,491 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\sounds\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sounds\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\pickups\\experiencegem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\experiencegem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|d:\\facultate\\anul4\\semestrul1\\spv\\licenta\\licenta\\assets\\scripts\\player\\playercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\weapons\\weaponbehavior\\garlicbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponbehavior\\garlicbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\pickups\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\weapons\\weaponbase\\projectileweaponbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponbase\\projectileweaponbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\pickups\\bobbinganimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\bobbinganimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\weapons\\weaponbase\\meleeweaponbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponbase\\meleeweaponbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\player\\playerscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\pickups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\treasurechest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\passiveitems\\wingspassiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passiveitems\\wingspassiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\sounds\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sounds\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\sounds\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sounds\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\player\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\weapons\\weaponscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\weapons\\weaponevolutionblueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weaponevolutionblueprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\passiveitems\\passiveitemscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passiveitems\\passiveitemscriptableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\passiveitems\\spinachpassiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passiveitems\\spinachpassiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\assets\\scripts\\passiveitems\\passiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72A17611-12CF-7A92-6F1D-5F8A69D9075B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passiveitems\\passiveitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExperienceGem.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\ExperienceGem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\ExperienceGem.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\ExperienceGem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUps\\ExperienceGem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T19:41:00.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeleeWeaponBehavior.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponBase\\MeleeWeaponBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponBase\\MeleeWeaponBehavior.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponBase\\MeleeWeaponBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponBase\\MeleeWeaponBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:30.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BobbingAnimation.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\BobbingAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\BobbingAnimation.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\BobbingAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUps\\BobbingAnimation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T20:02:59.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySpawner.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAHQAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T18:56:43.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Enemies\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyStats.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Enemies\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyStats.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAsAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-26T09:50:46.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\HealthPotion.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\HealthPotion.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUps\\HealthPotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T19:41:04.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\InventoryManager.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\InventoryManager.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFABAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:31.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Map\\MapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\MapController.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Map\\MapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\MapController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwI4AAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T19:08:19.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerCollector.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-25T09:43:13.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Sounds\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sounds\\AudioManager.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Sounds\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sounds\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-26T09:50:46.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAmAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:30.902Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GarlicBehavior.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponBehavior\\GarlicBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponBehavior\\GarlicBehavior.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponBehavior\\GarlicBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponBehavior\\GarlicBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-24T18:49:30.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectileWeaponBehavior.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponBase\\ProjectileWeaponBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponBase\\ProjectileWeaponBehavior.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponBase\\ProjectileWeaponBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponBase\\ProjectileWeaponBehavior.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerScriptableObject.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerScriptableObject.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerScriptableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T14:13:37.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwGUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T09:41:50.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneController.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T13:59:29.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Enemies\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyMovement.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Enemies\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-26T09:50:46.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TreasureChest.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\TreasureChest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\TreasureChest.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\TreasureChest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUps\\TreasureChest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA4AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T22:20:03.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WingsPassiveItem.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\WingsPassiveItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\WingsPassiveItem.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\WingsPassiveItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PassiveItems\\WingsPassiveItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:30.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\Pickup.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PickUps\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUps\\Pickup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T19:39:40.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UIController.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Sounds\\UIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sounds\\UIController.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Sounds\\UIController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sounds\\UIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-26T09:51:05.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Sounds\\Sound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sounds\\Sound.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Sounds\\Sound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sounds\\Sound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-26T09:50:46.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T08:57:52.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CameraMovement.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Player\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\CameraMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-26T09:50:46.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeaponScriptableObject.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponScriptableObject.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCUAAABEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T19:16:44.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeaponEvolutionBlueprint.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponEvolutionBlueprint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-25T22:19:57.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SpinachPassiveItem.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\SpinachPassiveItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\SpinachPassiveItem.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\SpinachPassiveItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PassiveItems\\SpinachPassiveItem.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:30.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PassiveItemScriptableObject.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\PassiveItemScriptableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\PassiveItemScriptableObject.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\PassiveItemScriptableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PassiveItems\\PassiveItemScriptableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABZAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:30.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PassiveItem.cs",
+              "DocumentMoniker": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\PassiveItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\PassiveItem.cs",
+              "ToolTip": "D:\\Facultate\\Anul4\\Semestrul1\\SPV\\Licenta\\Licenta\\Assets\\Scripts\\PassiveItems\\PassiveItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PassiveItems\\PassiveItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-01-24T18:49:30.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

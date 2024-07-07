@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ee6febe402d4444a776a0719b3d767, type: 3}
+  m_Name: GarlicWeapon Level3
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 9221172640162665908, guid: 458314daa9b2a494eb4c6fe75d389239, type: 3}
+  damage: 7
+  speed: 0
+  cdDuration: 2.5
+  pierce: 0
+  level: 2
+  nextLevelPrefab: {fileID: 0}
+  name: Garlic Level 3
+  description: Damage is increased by 2.
+  icon: {fileID: -1968787268, guid: 2354e93d051d69f4692eb2f163ca7df8, type: 3}
+  evolvedUpgradeToRemove: 0
