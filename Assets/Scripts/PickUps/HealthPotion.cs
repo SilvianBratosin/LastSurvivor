@@ -18,6 +18,6 @@ public class HealthPotion : Pickup
         }
 
         PlayerStats player = FindAnyObjectByType<PlayerStats>();
-        player.Heal(healAmount);
+        player.RestoreHealth(healAmount);
     }
 }
