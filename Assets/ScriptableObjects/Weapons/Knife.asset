@@ -24,10 +24,10 @@ MonoBehaviour:
     hitEffect: {fileID: 0}
     spawnVariance:
       serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
+      x: 0.5
+      y: 0.5
+      width: 0.5
+      height: 0.5
     lifespan: 5
     damage: 6.5
     damageVariance: 2
