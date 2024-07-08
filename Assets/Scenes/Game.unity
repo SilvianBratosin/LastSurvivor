@@ -4804,6 +4804,7 @@ MonoBehaviour:
   availableWeapons:
   - {fileID: 11400000, guid: 77e9b1a38ecf2a149b514a553be28b69, type: 2}
   - {fileID: 11400000, guid: 7ab21981be1b2824793299cf132b0e6e, type: 2}
+  - {fileID: 11400000, guid: e84157286c3357e43bcf91030b74fbc5, type: 2}
   availablePassives:
   - {fileID: 11400000, guid: f0ff16caf16219544868bbfb4c426c30, type: 2}
   - {fileID: 11400000, guid: d0da53bb0a9212c4f8197f1a95074e7e, type: 2}

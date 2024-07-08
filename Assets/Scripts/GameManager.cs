@@ -128,19 +128,26 @@ public class GameManager : MonoBehaviour
         Destroy(textObject, duration);
 
         textObject.transform.SetParent(instance.damageTextCanvas.transform);
+        textObject.transform.SetSiblingIndex(0);
 
         WaitForEndOfFrame w = new WaitForEndOfFrame();
         float t = 0;
         float yOffset = 0;
+        Vector3 lastKnownPosition = target.position;
         while(t < duration)
         {
-            yield return w;
-            t += Time.deltaTime;
+            if (!rect) break;
 
             tmPro.color = new Color(tmPro.color.r, tmPro.color.g, tmPro.color.b, 1 - t / duration);
 
+            if(target)
+                lastKnownPosition = target.position;
+
             yOffset += speed * Time.deltaTime;
-            rect.position = referenceCamera.WorldToScreenPoint(target.position + Vector3.up * yOffset);
+            rect.position = referenceCamera.WorldToScreenPoint(lastKnownPosition + Vector3.up * yOffset);
+
+            yield return w;
+            t += Time.deltaTime;
         }
     }
 
@@ -224,7 +231,7 @@ public class GameManager : MonoBehaviour
         levelReachedDisplay.text = levelReachedData.ToString();
     }
 
-    public void AssignChosenWeaponsAndPassiveItemsUI(List<Image> chosenWeaponsData, List<Image> chosenPassiveItemsData)
+    public void AssignChosenWeaponsAndPassiveItemsUI(List<PlayerInventory.Slot> chosenWeaponsData, List<PlayerInventory.Slot> chosenPassiveItemsData)
     {
         if(chosenWeaponsData.Count != chosenWeaponsUI.Count || chosenPassiveItemsData.Count != chosenPassiveItemsUI.Count)
         {
@@ -235,10 +242,10 @@ public class GameManager : MonoBehaviour
         //Assign weapons icons
         for (int i = 0; i < chosenWeaponsUI.Count; i++)
         {
-            if (chosenWeaponsData[i] != null)
+            if (chosenWeaponsData[i].image.sprite)
             {
                 chosenWeaponsUI[i].enabled = true;
-                chosenWeaponsUI[i].sprite = chosenWeaponsData[i].sprite;
+                chosenWeaponsUI[i].sprite = chosenWeaponsData[i].image.sprite;
             }
             else
             {
@@ -249,10 +256,10 @@ public class GameManager : MonoBehaviour
         //Assign passive items icons
         for (int i = 0; i < chosenPassiveItemsUI.Count; i++)
         {
-            if (chosenPassiveItemsData[i] != null)
+            if (chosenPassiveItemsData[i].image.sprite)
             {
                 chosenPassiveItemsUI[i].enabled = true;
-                chosenPassiveItemsUI[i].sprite = chosenPassiveItemsData[i].sprite;
+                chosenPassiveItemsUI[i].sprite = chosenPassiveItemsData[i].image.sprite;
             }
             else
             {
