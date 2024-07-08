@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Facultate\\Licenta_Git\\FinalProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\dropratemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropratemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\weapons\\axeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\axeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\weapons\\lightningweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\weapons\\lightningweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\lightningweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -111,19 +115,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DropRateManager.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\DropRateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DropRateManager.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\DropRateManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DropRateManager.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T22:55:04.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AxeWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\AxeWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AxeWeapon.cs",
               "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\AxeWeapon.cs",
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\AxeWeapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T16:26:10.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LightningWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\LightningWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\LightningWeapon.cs",
@@ -131,12 +148,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\LightningWeapon.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAgwEkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:54:48.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T15:54:48.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "WhipWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\WhipWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WhipWeapon.cs",
@@ -144,12 +160,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\WhipWeapon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T13:42:02.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T13:42:02.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SlasherWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\SlasherWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\SlasherWeapon.cs",
@@ -161,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Aura.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\Weapon Effects\\Aura.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Effects\\Aura.cs",
@@ -173,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerInventory.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInventory.cs",
@@ -185,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "PlayerStats.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerStats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
@@ -197,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PassiveData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\PassiveData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\PassiveData.cs",
@@ -209,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Passive.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\Passive.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\Passive.cs",
@@ -221,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -233,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CharacterSelector.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\CharacterSelector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector.cs",
@@ -245,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CharacterData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\CharacterData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterData.cs",
@@ -257,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProjectileWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
@@ -269,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "InventoryManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\OLD\\InventoryManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\OLD\\InventoryManager.cs",
@@ -281,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ItemData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\ItemData.cs",
@@ -293,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -305,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "HealthPotion.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PickUps\\HealthPotion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\HealthPotion.cs",
@@ -317,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AuraWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\AuraWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AuraWeapon.cs",
@@ -329,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon.cs",
@@ -341,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TreasureChest.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PickUps\\TreasureChest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\TreasureChest.cs",
@@ -353,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\Item.cs",
@@ -365,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "WeaponEffect.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\Weapon Effects\\WeaponEffect.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Effects\\WeaponEffect.cs",
@@ -377,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Projectile.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\Weapon Effects\\Projectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Effects\\Projectile.cs",
@@ -389,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "WeaponData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\WeaponData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponData.cs",

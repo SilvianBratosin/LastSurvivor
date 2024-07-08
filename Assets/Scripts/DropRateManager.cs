@@ -13,9 +13,20 @@ public class DropRateManager : MonoBehaviour
     }
 
     public List<Drops> drops;
+    bool isQuitting = false;
+
+    private void OnApplicationQuit()
+    {
+        isQuitting = true;
+    }
 
     void OnDestroy()
     {
+        if(isQuitting)
+        {
+            return;
+        }
+
         if(!gameObject.scene.isLoaded)
         {
             return;

@@ -2397,6 +2397,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1080152692}
     m_Modifications:
+    - target: {fileID: -673158889651855642, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
+      propertyPath: m_Simulated
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -582993142604499986, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2393608474283462715, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
       propertyPath: m_Name
       value: BlueGem (1)
@@ -2464,8 +2472,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1080152692}
     m_Modifications:
+    - target: {fileID: -3546421552415962569, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
+      propertyPath: m_Simulated
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3500439138767595152, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: healAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3911611243420325268, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4645183020327641708, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
@@ -2514,7 +2530,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9024490608196214679, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3500439138767595152, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
@@ -2574,9 +2590,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1080152692}
     m_Modifications:
+    - target: {fileID: -3546421552415962569, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
+      propertyPath: m_Simulated
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3500439138767595152, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: healAmount
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3911611243420325268, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4645183020327641708, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: m_Name
@@ -4147,6 +4171,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1080152692}
     m_Modifications:
+    - target: {fileID: -673158889651855642, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
+      propertyPath: m_Simulated
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2393608474283462715, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
       propertyPath: m_Name
       value: BlueGem
@@ -4859,5 +4887,5 @@ SceneRoots:
   - {fileID: 270284082}
   - {fileID: 1505080964}
   - {fileID: 890899495}
-  - {fileID: 1080152692}
   - {fileID: 268742693}
+  - {fileID: 1080152692}
