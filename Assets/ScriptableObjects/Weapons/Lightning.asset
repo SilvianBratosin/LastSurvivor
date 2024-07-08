@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Lightning
   m_EditorClassIdentifier: 
   icon: {fileID: 1039841389, guid: 55cbfd76cd2be944194cfbade3687743, type: 3}
-  maxLevel: 0
+  maxLevel: 8
   evolutionData: []
   behaviour: LightningWeapon
   baseStats:
