@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\map\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\map\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,11 +35,11 @@
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\lightningweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\breakableprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\breakableprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\breakableprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\dropratemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\dropratemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropratemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -130,26 +130,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ChunkTrigger.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
               "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
               "RelativeToolTip": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T16:27:04.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MapController.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\MapController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\MapController.cs",
               "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\MapController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Map\\MapController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwIMAAAAMAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T16:13:44.681Z",
               "EditorCaption": ""
@@ -164,8 +164,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyMovement.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwCQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T14:43:52.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T14:43:52.189Z"
             },
             {
               "$type": "Document",
@@ -175,7 +174,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyStats.cs",
               "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\EnemyStats.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyStats.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAASwHEAAAAbAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwHAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T14:26:01.651Z",
               "EditorCaption": ""
@@ -190,8 +189,7 @@
               "RelativeToolTip": "Assets\\Scripts\\BreakableProps.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:58:04.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T13:58:04.56Z"
             },
             {
               "$type": "Document",
@@ -203,8 +201,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\LightningWeapon.cs",
               "ViewState": "AQIAADkAAAAAAAAAAAAowFkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:54:48.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T15:54:48.084Z"
             },
             {
               "$type": "Document",
@@ -216,8 +213,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\SlasherWeapon.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T13:30:58.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T13:30:58.424Z"
             },
             {
               "$type": "Document",
@@ -229,8 +225,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Effects\\Aura.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAASwCAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:25:24.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T15:25:24.973Z"
             },
             {
               "$type": "Document",
@@ -258,13 +253,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowEsAAAA3AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowBsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T13:40:52.809Z",
               "EditorCaption": ""
@@ -303,8 +298,7 @@
               "RelativeToolTip": "Assets\\Scripts\\DropRateManager.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAgwBoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T22:55:04.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T22:55:04.015Z"
             },
             {
               "$type": "Document",

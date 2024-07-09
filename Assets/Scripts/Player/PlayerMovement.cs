@@ -26,30 +26,6 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        /*moveDir.x = Input.GetAxisRaw("Horizontal");
-        moveDir.y = Input.GetAxisRaw("Vertical");
-
-        animator.SetFloat("Horizontal", moveDir.x);
-        animator.SetFloat("Vertical", moveDir.y);
-        animator.SetFloat("Speed", moveDir.sqrMagnitude);
-
-        if(moveDir.x != 0)
-        {
-            lastHorizontalVector = moveDir.x;
-            lastMoved = new Vector2(lastHorizontalVector, 0f);
-        }
-
-        if(moveDir.y != 0)
-        {
-            lastVerticalVector = moveDir.y;
-            lastMoved = new Vector2(0f, lastVerticalVector);
-        }
-
-        if(moveDir.x == 0 && moveDir.y == 0)
-        {
-            lastMoved = new Vector2(lastHorizontalVector, lastVerticalVector);
-        }*/
-
         InputManagement();
     }
 
