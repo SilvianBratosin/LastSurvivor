@@ -2032,7 +2032,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -7725,10 +7725,10 @@ MonoBehaviour:
   - waveName: Wave 1
     enemyGroups:
     - enemyName: Bat
-      enemyCount: 100
+      enemyCount: 1000
       spawnCount: 0
       enemyPrefab: {fileID: 7056977992681166713, guid: 4aacdc22d4882cd4a97b3a9c10ffb478, type: 3}
-    waveQuota: 100
+    waveQuota: 1000
     spawnInterval: 0.5
     spawnCount: 0
   currentWaveCount: 0
