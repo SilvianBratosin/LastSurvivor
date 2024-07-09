@@ -28,7 +28,7 @@ MonoBehaviour:
       y: -0.2
       width: 0
       height: 0.5
-    lifespan: 0
+    lifespan: 3
     damage: 20
     damageVariance: 0
     area: 1

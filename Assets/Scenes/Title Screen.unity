@@ -164,7 +164,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 268742692}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 948eb154c6d89aa4285269a2200fca7b, type: 3}
   m_Name: 
@@ -2399,7 +2399,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -673158889651855642, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
       propertyPath: m_Simulated
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -582993142604499986, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
       propertyPath: m_IsTrigger
@@ -2474,7 +2474,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -3546421552415962569, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: m_Simulated
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3500439138767595152, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: healAmount
@@ -2530,7 +2530,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9024490608196214679, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: m_Enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3500439138767595152, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
@@ -2592,7 +2592,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -3546421552415962569, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: m_Simulated
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3500439138767595152, guid: e1a81684bf99be045ba18b7f8bc4ed3e, type: 3}
       propertyPath: healAmount
@@ -4173,7 +4173,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -673158889651855642, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
       propertyPath: m_Simulated
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2393608474283462715, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
       propertyPath: m_Name
