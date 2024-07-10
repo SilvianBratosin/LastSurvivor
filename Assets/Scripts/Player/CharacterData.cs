@@ -23,7 +23,8 @@ public class CharacterData : ScriptableObject
         [Range(-1, 5)] public float speed, duration;
         [Range(-1, 10)] public int amount;
         [Range(-1, 1)] public float cooldown;
-        //[Min(-1)] public float luck, growth, greed, curse;
+        //[Min(-1)] public float growth, greed, curse;
+        [Min(-1)] public float luck;
         public float magnet;
         //public int revival;
 
@@ -39,8 +40,8 @@ public class CharacterData : ScriptableObject
             s1.duration += s2.duration;
             s1.amount += s2.amount;
             s1.cooldown += s2.cooldown;
-            /*s1.luck += s2.luck;
-            s1.growth += s2.growth;
+            s1.luck += s2.luck;
+            /*s1.growth += s2.growth;
             s1.greed += s2.greed;
             s1.curse += s2.curse;*/
             s1.magnet += s2.magnet;
@@ -57,8 +58,8 @@ public class CharacterData : ScriptableObject
         speed = 1,
         duration = 1,
         cooldown = 1,
-        /*luck = 1,
-        greed = 1,
+        luck = 1,
+        /*greed = 1,
         growth = 1,
         curse = 1*/
     };

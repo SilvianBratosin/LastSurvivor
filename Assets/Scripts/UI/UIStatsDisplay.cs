@@ -37,7 +37,7 @@ public class UIStatDisplay : MonoBehaviour
 
         if (displayCurrentHealth)
         {
-            names.AppendLine("Health");
+            names.AppendLine("Max Health");
             values.AppendLine(player.CurrentHealth.ToString());
         }
 

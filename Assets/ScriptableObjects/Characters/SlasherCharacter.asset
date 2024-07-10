@@ -26,4 +26,5 @@ MonoBehaviour:
     duration: 1
     amount: 0
     cooldown: 1
+    luck: 1
     magnet: 2

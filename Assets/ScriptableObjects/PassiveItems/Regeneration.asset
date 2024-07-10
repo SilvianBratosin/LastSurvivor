@@ -10,17 +10,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0b63d4ce19c43db479952f8f175f9062, type: 3}
-  m_Name: Cooldown
+  m_Name: Regeneration
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: fc9afef69118e98478df9cb4313d34b5, type: 3}
+  icon: {fileID: 21300000, guid: 8f03d65eca65243d0963f648c2e9824a, type: 3}
   maxLevel: 5
   evolutionData: []
   baseStats:
-    name: Knowledge
-    description: Decreases the weapons cooldown by 5%.
+    name: Regeneration
+    description: Give health regeneration
     boosts:
       maxHealth: 0
-      recovery: 0
+      recovery: 1
       armor: 0
       moveSpeed: 0
       might: 0
@@ -28,19 +28,14 @@ MonoBehaviour:
       speed: 0
       duration: 0
       amount: 0
-      cooldown: -0.05
-      luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
+      cooldown: 0
       magnet: 0
-      revival: 0
   growth:
   - name: Level 2
-    description: Decreases the weapons cooldown by 5%.
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0
+      recovery: 1
       armor: 0
       moveSpeed: 0
       might: 0
@@ -48,18 +43,13 @@ MonoBehaviour:
       speed: 0
       duration: 0
       amount: 0
-      cooldown: -0.05
-      luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
+      cooldown: 0
       magnet: 0
-      revival: 0
   - name: Level 3
-    description: Decreases the weapons cooldown by 5%.
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0
+      recovery: 1
       armor: 0
       moveSpeed: 0
       might: 0
@@ -67,18 +57,13 @@ MonoBehaviour:
       speed: 0
       duration: 0
       amount: 0
-      cooldown: -0.05
-      luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
+      cooldown: 0
       magnet: 0
-      revival: 0
   - name: Level 4
-    description: Decreases the weapons cooldown by 5%.
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0
+      recovery: 1
       armor: 0
       moveSpeed: 0
       might: 0
@@ -86,18 +71,13 @@ MonoBehaviour:
       speed: 0
       duration: 0
       amount: 0
-      cooldown: -0.05
-      luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
+      cooldown: 0
       magnet: 0
-      revival: 0
   - name: Level 5
-    description: Decreases the weapons cooldown by 5%.
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0
+      recovery: 1
       armor: 0
       moveSpeed: 0
       might: 0
@@ -105,10 +85,5 @@ MonoBehaviour:
       speed: 0
       duration: 0
       amount: 0
-      cooldown: -0.05
-      luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
+      cooldown: 0
       magnet: 0
-      revival: 0

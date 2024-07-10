@@ -10,14 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0b63d4ce19c43db479952f8f175f9062, type: 3}
-  m_Name: Amount
+  m_Name: Knowledge
   m_EditorClassIdentifier: 
-  icon: {fileID: 21300000, guid: 257e64a930d22a643aeb836599d08de6, type: 3}
+  icon: {fileID: 21300000, guid: fc9afef69118e98478df9cb4313d34b5, type: 3}
   maxLevel: 5
   evolutionData: []
   baseStats:
-    name: Backpack
-    description: Increases the amount of projectiles by 1.
+    name: Knowledge
+    description: Decreases the weapons cooldown by 5%.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -27,8 +27,8 @@ MonoBehaviour:
       area: 0
       speed: 0
       duration: 0
-      amount: 1
-      cooldown: 0
+      amount: 0
+      cooldown: -0.05
       luck: 0
       growth: 0
       greed: 0
@@ -37,7 +37,7 @@ MonoBehaviour:
       revival: 0
   growth:
   - name: Level 2
-    description: Increases the amount of projectiles by 1.
+    description: Decreases the weapons cooldown by 5%.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -47,8 +47,8 @@ MonoBehaviour:
       area: 0
       speed: 0
       duration: 0
-      amount: 1
-      cooldown: 0
+      amount: 0
+      cooldown: -0.05
       luck: 0
       growth: 0
       greed: 0
@@ -56,7 +56,7 @@ MonoBehaviour:
       magnet: 0
       revival: 0
   - name: Level 3
-    description: Increases the amount of projectiles by 1.
+    description: Decreases the weapons cooldown by 5%.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -66,8 +66,8 @@ MonoBehaviour:
       area: 0
       speed: 0
       duration: 0
-      amount: 1
-      cooldown: 0
+      amount: 0
+      cooldown: -0.05
       luck: 0
       growth: 0
       greed: 0
@@ -75,7 +75,7 @@ MonoBehaviour:
       magnet: 0
       revival: 0
   - name: Level 4
-    description: Increases the amount of projectiles by 1.
+    description: Decreases the weapons cooldown by 5%.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -85,8 +85,8 @@ MonoBehaviour:
       area: 0
       speed: 0
       duration: 0
-      amount: 1
-      cooldown: 0
+      amount: 0
+      cooldown: -0.05
       luck: 0
       growth: 0
       greed: 0
@@ -94,7 +94,7 @@ MonoBehaviour:
       magnet: 0
       revival: 0
   - name: Level 5
-    description: Increases the amount of projectiles by 1.
+    description: Decreases the weapons cooldown by 5%.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -104,8 +104,8 @@ MonoBehaviour:
       area: 0
       speed: 0
       duration: 0
-      amount: 1
-      cooldown: 0
+      amount: 0
+      cooldown: -0.05
       luck: 0
       growth: 0
       greed: 0
