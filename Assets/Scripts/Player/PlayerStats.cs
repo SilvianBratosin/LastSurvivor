@@ -194,7 +194,7 @@ public class PlayerStats : MonoBehaviour
     void UpdateLevelText()
     {
         // Update level text
-        levelText.text = "LV " + level.ToString();
+        levelText.text = "Level " + level.ToString();
     }
 
     public void TakeDamage(float dmg)

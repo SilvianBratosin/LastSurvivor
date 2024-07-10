@@ -128,7 +128,7 @@ public abstract class Weapon : Item
     public virtual float GetArea()
     {
         print("Current Area of " + name + ": " + (currentStats.area + owner.Stats.area));
-        return currentStats.area + owner.Stats.area;
+        return currentStats.area * owner.Stats.area;
     }
 
     // For retrieving the weapon's stats.

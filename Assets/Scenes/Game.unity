@@ -2577,6 +2577,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e84157286c3357e43bcf91030b74fbc5, type: 2}
   - {fileID: 11400000, guid: e3768f04bc3fd974bb2e48e071972975, type: 2}
   - {fileID: 11400000, guid: ce3231bd02e923c4b9efbdb2ec35aa52, type: 2}
+  - {fileID: 11400000, guid: 1e09a34946daab149b30c1df8732b439, type: 2}
   availablePassives:
   - {fileID: 11400000, guid: f0ff16caf16219544868bbfb4c426c30, type: 2}
   - {fileID: 11400000, guid: d0da53bb0a9212c4f8197f1a95074e7e, type: 2}
@@ -3196,7 +3197,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Quit
+  m_text: Main Menu
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3872,8 +3873,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+    rgba: 4278242559
+  m_fontColor: {r: 1, g: 0.8, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
