@@ -127,7 +127,6 @@ public abstract class Weapon : Item
     // Get the area, including modifications from the player's stats.
     public virtual float GetArea()
     {
-        print("Current Area of " + name + ": " + (currentStats.area + owner.Stats.area));
         return currentStats.area * owner.Stats.area;
     }
 
