@@ -30,7 +30,7 @@ MonoBehaviour:
       height: 0
     lifespan: 0
     damage: 5
-    damageVariance: 1
+    damageVariance: 0
     area: 1
     speed: 0
     cooldown: 1.3

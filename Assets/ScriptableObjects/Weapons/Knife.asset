@@ -29,8 +29,8 @@ MonoBehaviour:
       width: 0
       height: 0.4
     lifespan: 5
-    damage: 6.5
-    damageVariance: 2
+    damage: 6
+    damageVariance: 0
     area: 1
     speed: 10
     cooldown: 1

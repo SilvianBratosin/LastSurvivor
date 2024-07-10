@@ -14,50 +14,76 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 8f03d65eca65243d0963f648c2e9824a, type: 3}
   maxLevel: 5
+  evolutionData: []
   baseStats:
     name: Regeneration
     description: Give health regeneration
     boosts:
       maxHealth: 0
-      recovery: 0.2
+      recovery: 1
+      armor: 0
       moveSpeed: 0
       might: 0
+      area: 0
       speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
       magnet: 0
   growth:
   - name: Level 2
-    description: Increase health regen by 0.2
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0.2
+      recovery: 1
+      armor: 0
       moveSpeed: 0
       might: 0
+      area: 0
       speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
       magnet: 0
   - name: Level 3
-    description: Increase health regen by 0.2
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0.2
+      recovery: 1
+      armor: 0
       moveSpeed: 0
       might: 0
+      area: 0
       speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
       magnet: 0
   - name: Level 4
-    description: Increase health regen by 0.2
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0.2
+      recovery: 1
+      armor: 0
       moveSpeed: 0
       might: 0
+      area: 0
       speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
       magnet: 0
   - name: Level 5
-    description: Increase health regen by 0.2
+    description: Increase health regen by 1.
     boosts:
       maxHealth: 0
-      recovery: 0.2
+      recovery: 1
+      armor: 0
       moveSpeed: 0
       might: 0
+      area: 0
       speed: 0
+      duration: 0
+      amount: 0
+      cooldown: 0
       magnet: 0

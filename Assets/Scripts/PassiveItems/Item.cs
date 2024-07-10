@@ -12,6 +12,7 @@ public abstract class Item : MonoBehaviour
     protected PlayerInventory inventory;
     protected PlayerStats owner;
 
+    public PlayerStats Owner { get => owner; }
     public virtual void Initialise(ItemData data)
     {
         maxLevel = data.maxLevel;
@@ -22,8 +23,8 @@ public abstract class Item : MonoBehaviour
 
         // We have to find a better way to reference the player inventory
         // in future, as this is inefficient.
-        inventory = FindObjectOfType<PlayerInventory>();
-        owner = FindObjectOfType<PlayerStats>();
+        inventory = GetComponentInParent<PlayerInventory>();
+        owner = GetComponentInParent<PlayerStats>();
     }
 
     // Call this function to get all the evolutions that the weapon

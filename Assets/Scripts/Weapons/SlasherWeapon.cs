@@ -12,7 +12,7 @@ public class SlasherWeapon : ProjectileWeapon
         if (!currentStats.projectilePrefab)
         {
             Debug.LogWarning(string.Format("Projectile prefab has not been set for {0}", name));
-            currentCooldown = currentStats.cooldown;
+            ActivateCooldown(true);
             return false;
         }
 
@@ -56,7 +56,7 @@ public class SlasherWeapon : ProjectileWeapon
 
         // Assign the stats.
         prefab.weapon = this;
-        currentCooldown += currentStats.cooldown;
+        ActivateCooldown(true);
         attackCount--;
 
         // Determine where the next projectile should spawn.

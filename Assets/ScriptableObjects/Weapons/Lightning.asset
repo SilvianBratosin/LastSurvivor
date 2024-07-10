@@ -15,7 +15,7 @@ MonoBehaviour:
   icon: {fileID: 1039841389, guid: 55cbfd76cd2be944194cfbade3687743, type: 3}
   maxLevel: 8
   evolutionData: []
-  behaviour: LightningWeapon
+  behaviour: LightningRingWeapon
   baseStats:
     name: Ligthning
     description: Strikes at random enemies.
@@ -30,7 +30,7 @@ MonoBehaviour:
       height: 0
     lifespan: 0
     damage: 15
-    damageVariance: 2
+    damageVariance: 0
     area: 1
     speed: 0
     cooldown: 4.5
