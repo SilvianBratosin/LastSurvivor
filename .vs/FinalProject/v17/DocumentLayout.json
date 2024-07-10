@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Facultate\\Licenta_Git\\FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\pickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\player\\playercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\map\\chunktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\weapons\\weapon effects\\aura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapon effects\\aura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\weapons\\slasherweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\auraweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\passiveitems\\passivedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passiveitems\\passivedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\pickups\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickups\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\passiveitems\\passive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,24 +126,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ChunkTrigger.cs",
-              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
-              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "DocumentIndex": 0,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
+              "ViewState": "AQIAAH4BAAAAAAAAAAAswJABAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:27:04.348Z",
+              "WhenOpened": "2024-07-07T14:23:53.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Pickup.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PickUps\\Pickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\Pickup.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PickUps\\Pickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickUps\\Pickup.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:39:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCollector.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:53:20.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MapController.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\MapController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\MapController.cs",
@@ -151,12 +176,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Map\\MapController.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAiwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:13:44.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T16:13:44.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "EnemyMovement.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyMovement.cs",
@@ -168,20 +192,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EnemyStats.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\EnemyStats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyStats.cs",
               "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\EnemyStats.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyStats.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAuwHAAAAA3AAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwG8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T14:26:01.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T14:26:01.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "BreakableProps.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\BreakableProps.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BreakableProps.cs",
@@ -193,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LightningWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\LightningWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\LightningWeapon.cs",
@@ -205,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "SlasherWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\SlasherWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\SlasherWeapon.cs",
@@ -217,19 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Aura.cs",
-              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\Weapon Effects\\Aura.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon Effects\\Aura.cs",
-              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\Weapon Effects\\Aura.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapons\\Weapon Effects\\Aura.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAASwCAAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:25:24.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "PlayerInventory.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInventory.cs",
@@ -241,19 +252,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PlayerStats.cs",
-              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerStats.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerStats.cs",
-              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerStats.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerStats.cs",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAcwN4AAAAMAAAA",
+              "DocumentIndex": 4,
+              "Title": "ChunkTrigger.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\ChunkTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T14:23:53.698Z"
+              "WhenOpened": "2024-07-09T16:27:04.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -261,12 +272,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAowBsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T13:40:52.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T13:40:52.809Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AxeWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\AxeWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AxeWeapon.cs",
@@ -278,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "PassiveData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\PassiveData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\PassiveData.cs",
@@ -290,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "DropRateManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\DropRateManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DropRateManager.cs",
@@ -314,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -326,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CharacterSelector.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\CharacterSelector.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelector.cs",
@@ -350,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProjectileWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\ProjectileWeapon.cs",
@@ -362,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "InventoryManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\OLD\\InventoryManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\OLD\\InventoryManager.cs",
@@ -374,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ItemData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\ItemData.cs",
@@ -386,19 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HealthPotion.cs",
-              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PickUps\\HealthPotion.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\HealthPotion.cs",
-              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PickUps\\HealthPotion.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PickUps\\HealthPotion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T14:31:26.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AuraWeapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\AuraWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\AuraWeapon.cs",
@@ -410,7 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\Weapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\Weapon.cs",
@@ -422,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "TreasureChest.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PickUps\\TreasureChest.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PickUps\\TreasureChest.cs",
@@ -434,7 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Item.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\Item.cs",

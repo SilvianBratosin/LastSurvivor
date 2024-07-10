@@ -5041,7 +5041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 89577347f2b2178408f2187ae03bdf8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pullSpeed: 300
+  pullSpeed: 10
 --- !u!58 &946639188
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -10289,63 +10289,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4aacdc22d4882cd4a97b3a9c10ffb478, type: 3}
---- !u!1001 &4402863457163636364
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 7.64
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.75
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2511478041009076257, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4775637540059907857, guid: fd917357e28cede46b8456d63c349d42, type: 3}
-      propertyPath: m_Name
-      value: TreasureChest
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: fd917357e28cede46b8456d63c349d42, type: 3}
 --- !u!1001 &6068613062558738376
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10436,4 +10379,3 @@ SceneRoots:
   - {fileID: 1427072836}
   - {fileID: 1464855917}
   - {fileID: 1281129511}
-  - {fileID: 4402863457163636364}
