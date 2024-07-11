@@ -4941,7 +4941,7 @@ MonoBehaviour:
   - item: {fileID: 0}
   - item: {fileID: 0}
   weaponUI: {fileID: 1187961959}
-  passiveUI: {fileID: 0}
+  passiveUI: {fileID: 74509969}
   availableWeapons:
   - {fileID: 11400000, guid: 77e9b1a38ecf2a149b514a553be28b69, type: 2}
   - {fileID: 11400000, guid: 7ab21981be1b2824793299cf132b0e6e, type: 2}
