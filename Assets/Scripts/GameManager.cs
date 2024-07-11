@@ -41,6 +41,7 @@ public class GameManager : MonoBehaviour
     public TMP_Text levelReachedDisplay;
     public TMP_Text timeSurvivedDisplay;
 
+
     [Header("Stopwatch")]
     public float timeLimit; // The time limit in seconds
     float stopwatchTime; // The current time elapsed since the stopwatch started
@@ -52,6 +53,9 @@ public class GameManager : MonoBehaviour
     // Getters for parity with older scripts.
     public bool isGameOver { get { return currentState == GameState.Paused; } }
     public bool choosingUpgrade { get { return currentState == GameState.LevelUp; } }
+
+    // Gives us the time since the level has started.
+    public float GetElapsedTime() { return stopwatchTime; }
 
     void Awake()
     {
@@ -227,6 +231,8 @@ public class GameManager : MonoBehaviour
     {
         levelReachedDisplay.text = levelReachedData.ToString();
     }
+
+
 
     void UpdateStopwatch()
     {
