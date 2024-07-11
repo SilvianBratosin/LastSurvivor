@@ -8065,7 +8065,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1466370541}
-  - component: {fileID: 1466370542}
   - component: {fileID: 1466370543}
   - component: {fileID: 1466370544}
   m_Layer: 0
@@ -8090,46 +8089,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1466370542
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1466370540}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b59bc5b842cacf498899cd546c7c55e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  waves:
-  - waveName: Wave 1
-    enemyGroups:
-    - enemyName: Bat
-      enemyCount: 1000
-      spawnCount: 0
-      enemyPrefab: {fileID: 7056977992681166713, guid: 4aacdc22d4882cd4a97b3a9c10ffb478, type: 3}
-    waveQuota: 1000
-    spawnInterval: 0.5
-    spawnCount: 0
-  currentWaveCount: 0
-  enemiesAlive: 0
-  maxEnemiesAlive: 100
-  maxEnemiesReached: 0
-  waveInterval: 10
-  relativeSpawnPositions:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
 --- !u!114 &1466370543
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8162,9 +8121,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   events:
   - {fileID: 11400000, guid: 09f376c77242bdb4d9640d71d5871450, type: 2}
-  - {fileID: 11400000, guid: 45353710acc15ab4cb257c9325571ffe, type: 2}
   firstTriggerDelay: 0
-  triggerInterval: 60
+  triggerInterval: 10
 --- !u!1 &1532400287
 GameObject:
   m_ObjectHideFlags: 0
