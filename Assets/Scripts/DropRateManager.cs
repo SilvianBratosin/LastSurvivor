@@ -12,6 +12,7 @@ public class DropRateManager : MonoBehaviour
         public float dropRate;
     }
 
+    public bool active = false;
     public List<Drops> drops;
     bool isQuitting = false;
 
@@ -22,6 +23,11 @@ public class DropRateManager : MonoBehaviour
 
     void OnDestroy()
     {
+        if(!active)
+        {
+            return;
+        }
+
         if(isQuitting)
         {
             return;
