@@ -180,9 +180,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 391856a91b8d2d847bfa8b9f17cf32d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentMoveSpeed: 2
-  currentHealth: 10
-  currentDamage: 3
+  currentMoveSpeed: 1.4
+  currentHealth: 5
+  currentDamage: 5
   damageColor: {r: 1, g: 0, b: 0, a: 1}
   damageFlashDuration: 0.2
   deathFadeTime: 0.6

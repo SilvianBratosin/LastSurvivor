@@ -180,9 +180,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 391856a91b8d2d847bfa8b9f17cf32d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentMoveSpeed: 4
-  currentHealth: 20
-  currentDamage: 6
+  currentMoveSpeed: 1.4
+  currentHealth: 50
+  currentDamage: 10
   damageColor: {r: 1, g: 0, b: 0, a: 1}
   damageFlashDuration: 0.2
   deathFadeTime: 0.6
@@ -202,4 +202,7 @@ MonoBehaviour:
   drops:
   - name: BlueGem
     itemPrefab: {fileID: 2393608474283462715, guid: da1bddc15ffd31547aa0b1aa2174c288, type: 3}
-    dropRate: 100
+    dropRate: 90
+  - name: GreenGem
+    itemPrefab: {fileID: 2393608474283462715, guid: 6d3fa2a3b7bb36b42ad5472a0557a19d, type: 3}
+    dropRate: 10

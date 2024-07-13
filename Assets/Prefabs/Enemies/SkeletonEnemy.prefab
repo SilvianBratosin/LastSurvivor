@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2564887332210916295}
   - component: {fileID: 7508807371113351214}
   - component: {fileID: 7194694020316812388}
+  - component: {fileID: 6870023495898553444}
   m_Layer: 0
   m_Name: SkeletonEnemy
   m_TagString: Untagged
@@ -134,9 +135,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 391856a91b8d2d847bfa8b9f17cf32d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentMoveSpeed: 1
-  currentHealth: 450
-  currentDamage: 35
+  currentMoveSpeed: 0.8
+  currentHealth: 500
+  currentDamage: 10
   damageColor: {r: 1, g: 0, b: 0, a: 1}
   damageFlashDuration: 0.2
   deathFadeTime: 0.6
@@ -176,7 +177,7 @@ PolygonCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3, y: 2.6666667}
+    oldSize: {x: 3.6, y: 3.2}
     newSize: {x: 1.125, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -196,3 +197,20 @@ PolygonCollider2D:
       - {x: -0.25, y: -0.9166667}
       - {x: -0.083333336, y: -1.3333334}
   m_UseDelaunayMesh: 0
+--- !u!114 &6870023495898553444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 171920898684162872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1e7a36a0470f2498331fda1e1294c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  active: 0
+  drops:
+  - name: GreenGem
+    itemPrefab: {fileID: 2393608474283462715, guid: 6d3fa2a3b7bb36b42ad5472a0557a19d, type: 3}
+    dropRate: 100

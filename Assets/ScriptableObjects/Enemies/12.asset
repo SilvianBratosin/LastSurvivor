@@ -10,17 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d99552402e354c14b9cbdeb55c4ddbeb, type: 3}
-  m_Name: FirstWave
+  m_Name: 12
   m_EditorClassIdentifier: 
   possibleSpawnPrefabs:
-  - {fileID: 7056977992681166713, guid: 4aacdc22d4882cd4a97b3a9c10ffb478, type: 3}
-  - {fileID: 7056977992681166713, guid: 4aacdc22d4882cd4a97b3a9c10ffb478, type: 3}
-  - {fileID: 7056977992681166713, guid: 4aacdc22d4882cd4a97b3a9c10ffb478, type: 3}
-  - {fileID: 7056977992681166713, guid: 69cf0576393fdd44dadf5868f98b9980, type: 3}
-  spawnInterval: {x: 3, y: 6}
-  spawnsPerTick: {x: 5, y: 10}
-  duration: 120
-  startingCount: 5
+  - {fileID: 2007934775977027446, guid: 45208df9a5c8faa48a18d3f2f26672b1, type: 3}
+  spawnInterval: {x: 0.1, y: 0.1}
+  spawnsPerTick: {x: 1, y: 1}
+  duration: 60
+  startingCount: 300
   totalSpawns: 4294967295
   exitConditions: 1
   mustKillAll: 0
