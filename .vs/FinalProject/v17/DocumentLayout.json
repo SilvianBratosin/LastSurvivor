@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Facultate\\Licenta_Git\\FinalProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapons\\weapondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|d:\\facultate\\licenta_git\\finalproject\\assets\\scripts\\enemies\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\enemies\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1456745-ED92-4EB6-8905-E64DC1E47277}|Assembly-CSharp.csproj|D:\\Facultate\\Licenta_Git\\FinalProject\\assets\\scripts\\map\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -178,47 +178,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MapController.cs",
-              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\MapController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\MapController.cs",
-              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\MapController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Map\\MapController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowEcAAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T16:13:44.681Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "SpawnData.cs",
-              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\SpawnData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SpawnData.cs",
-              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\SpawnData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\SpawnData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T16:39:43.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WaveData.cs",
-              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\WaveData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\WaveData.cs",
-              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\WaveData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\WaveData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T16:40:22.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "SpawnManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\SpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SpawnManager.cs",
@@ -226,8 +190,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\SpawnManager.cs",
               "ViewState": "AQIAAGoAAAAAAAAAAADwv5AAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T16:55:08.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-11T16:55:08.859Z"
             },
             {
               "$type": "Document",
@@ -267,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
@@ -280,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "WeaponData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Weapons\\WeaponData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Weapons\\WeaponData.cs",
@@ -288,12 +251,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Weapons\\WeaponData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T12:01:10Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T12:01:10Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ItemData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\PassiveItems\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PassiveItems\\ItemData.cs",
@@ -301,12 +263,11 @@
               "RelativeToolTip": "Assets\\Scripts\\PassiveItems\\ItemData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T13:59:57.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T13:59:57.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CharacterData.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Player\\CharacterData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\CharacterData.cs",
@@ -314,8 +275,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\CharacterData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T14:05:26.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T14:05:26.484Z"
             },
             {
               "$type": "Document",
@@ -343,19 +303,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "EnemyMovement.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\EnemyMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyMovement.cs",
               "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\EnemyMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyMovement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwFkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T14:43:52.189Z"
+              "WhenOpened": "2024-07-09T14:43:52.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "WaveData.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\WaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\WaveData.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\WaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\WaveData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:40:22.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpawnData.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\SpawnData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\SpawnData.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\SpawnData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\SpawnData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T16:39:43.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\MapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map\\MapController.cs",
+              "ToolTip": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Map\\MapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map\\MapController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEcAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T16:13:44.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EnemyStats.cs",
               "DocumentMoniker": "D:\\Facultate\\Licenta_Git\\FinalProject\\Assets\\Scripts\\Enemies\\EnemyStats.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyStats.cs",

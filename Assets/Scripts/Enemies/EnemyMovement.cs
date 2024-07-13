@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class EnemyMovement : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public class EnemyMovement : MonoBehaviour
 
     protected bool spawnedOutOfFrame = false;
 
+    private Vector2 lastPosition;
+
     protected virtual void Start()
     {
         spawnedOutOfFrame = !SpawnManager.IsWithinBoundaries(transform);
@@ -24,6 +27,8 @@ public class EnemyMovement : MonoBehaviour
         // Picks a random player on the screen, instead of always picking the 1st player.
         PlayerMovement[] allPlayers = FindObjectsOfType<PlayerMovement>();
         player = allPlayers[Random.Range(0, allPlayers.Length)].transform;
+
+        lastPosition = transform.position;
     }
 
     protected virtual void Update()
@@ -82,7 +87,20 @@ public class EnemyMovement : MonoBehaviour
 
     public virtual void Move()
     {
+        Vector2 currentPosition = transform.position;
+
         // Constantly move the enemy towards the player
         transform.position = Vector2.MoveTowards(transform.position, player.transform.position, enemy.currentMoveSpeed * Time.deltaTime);
+
+        if (currentPosition.x > lastPosition.x)
+        {
+            transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        }
+        else if (currentPosition.x < lastPosition.x)
+        {
+            transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
+        }
+
+        lastPosition = currentPosition;
     }
 }
