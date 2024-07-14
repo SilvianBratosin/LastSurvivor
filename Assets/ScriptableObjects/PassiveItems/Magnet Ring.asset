@@ -30,14 +30,10 @@ MonoBehaviour:
       amount: 0
       cooldown: 0
       luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
       magnet: 1
-      revival: 0
   growth:
   - name: Level 2
-    description: Pickup rage increased by 10.
+    description: Pickup rage increased by 1.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -50,13 +46,9 @@ MonoBehaviour:
       amount: 0
       cooldown: 0
       luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
       magnet: 1
-      revival: 0
   - name: Level 3
-    description: Pickup rage increased by 10.
+    description: Pickup rage increased by 1.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -69,13 +61,9 @@ MonoBehaviour:
       amount: 0
       cooldown: 0
       luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
       magnet: 1
-      revival: 0
   - name: Level 4
-    description: Pickup rage increased by 10.
+    description: Pickup rage increased by 1.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -88,13 +76,9 @@ MonoBehaviour:
       amount: 0
       cooldown: 0
       luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
       magnet: 1
-      revival: 0
   - name: Level 5
-    description: Pickup rage increased by 10.
+    description: Pickup rage increased by 1.
     boosts:
       maxHealth: 0
       recovery: 0
@@ -107,8 +91,4 @@ MonoBehaviour:
       amount: 0
       cooldown: 0
       luck: 0
-      growth: 0
-      greed: 0
-      curse: 0
       magnet: 1
-      revival: 0

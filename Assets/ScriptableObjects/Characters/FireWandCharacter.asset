@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: FireWandCharacter
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 0f39a9205e4394ee1b6ba8269428d176, type: 3}
-  name: FIre Wand
+  name: Fire Wand
   startingWeapon: {fileID: 11400000, guid: 1e09a34946daab149b30c1df8732b439, type: 2}
   stats:
     maxHealth: 100
